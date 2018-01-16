@@ -69,7 +69,7 @@ wptKey: "3488d94d0f2c651801ee40015235db17318443bb881bd7331de2150e7c9e3b1122c3"
 alerts:
   emailAlert:
     type: "email"
-    recipients: ["dom@jscodebook.com"]
+    recipients: ["11c98d3b0666651257bc400d083fc31538df", "18c58d1a0260755340b04f0d09148a1b36db1cf1dc1282"]
 #  otherEmailAlert:
 #    type: "email"
 #    recipients: ["ENCRYPTED_EMAIL_ADDRESS2", "ENCRYPTED_EMAIL_ADDRESS3"]
